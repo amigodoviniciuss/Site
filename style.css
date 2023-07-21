@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Lato', sans-serif;
+}
+
 .cabecalho{
     background-color: #FFD700;
     color: rgb(248, 248, 247);
@@ -36,4 +40,16 @@ align-items: center;
 
 .escola-div-conteudo{
     width: 35%;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
 }
